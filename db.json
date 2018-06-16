@@ -1,14 +1,16 @@
-[ 
-  { 
-    "fname": "hellllooo", 
-    "lname": "dododo" 
-  }, 
-  { 
-    "fname": "welocmeee", 
-    "lname": "dododo" 
-  }, 
-  { 
-    "fname": "welcommme", 
-    "lname": "dododo" 
-  } 
-]
+{
+  "names": [ 
+    { 
+      "fname": "hellllooo", 
+      "lname": "dododo" 
+    }, 
+    { 
+      "fname": "welocmeee", 
+      "lname": "dododo" 
+    }, 
+    { 
+      "fname": "welcommme", 
+      "lname": "dododo" 
+    } 
+  ]
+}
