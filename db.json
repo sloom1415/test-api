@@ -11,13 +11,13 @@
         {
           "id": "5725655",
           "type": "dry",
-          "isFragile": "false"
+          "isFragile": "false",
           "isChecked": "false",
         },
         {
           "id": "45532413",
           "type": "dry",
-          "isFragile": "false"
+          "isFragile": "false",
           "isChecked": "false",
         }
       ]
